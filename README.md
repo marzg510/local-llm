@@ -129,7 +129,7 @@ chainlit run server_test2.py
 ### llama-cpp-python
 
 ```bash
-pip install llama-cpp-python --break-system-packages
+pip install llama-cpp-python
 ```
 
 ## 前提条件
