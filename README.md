@@ -120,6 +120,18 @@ pip install chainlit
 chainlit run server_test2.py 
 ```
 
+## Part2 ラズパイ５でLLMを動かす
+
+### TinyLlama
+
+- https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/blob/main/tinyllama-1.1b-chat-v1.0.Q8_0.gguf
+
+### llama-cpp-python
+
+```bash
+pip install llama-cpp-python --break-system-packages
+```
+
 ## 前提条件
 
 開始する前に、以下のものがマシンにインストールされ、設定されていることを確認してください:
